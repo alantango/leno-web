@@ -441,7 +441,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/alan/dev/mvnweb/leno-web/web-app/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/alan/git/leno-web/web-app/src/main.ts */"./src/main.ts");
 
 
 /***/ })

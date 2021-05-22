@@ -338,7 +338,7 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/alan/dev/mvnweb/leno-web/web-app/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/alan/git/leno-web/web-app/src/styles.css */"./src/styles.css");
 
 
 /***/ })
